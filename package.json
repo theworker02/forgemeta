@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/forgemeta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Forge encode/decode helpers for meta payloads in pipelines.",
+  "bin": {
+    "forgemeta": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/forgemeta.git"
+  },
+  "homepage": "https://theworker02.github.io/forgemeta/",
+  "keywords": [
+    "forge",
+    "meta",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
